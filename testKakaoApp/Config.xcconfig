@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  testKakaoApp
+//
+//  Created by Dabo Developer on 2023/10/27.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+NATIVE_APP_KEY = ea49e3825c5f3d6590cef109d3948952
