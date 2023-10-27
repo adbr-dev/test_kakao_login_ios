@@ -9,6 +9,8 @@ import SwiftUI
 
 @main
 struct testKakaoAppApp: App {
+    @UIApplicationDelegateAdaptor var appDelegate: MyAppDelegate
+    
     let persistenceController = PersistenceController.shared
 
     var body: some Scene {

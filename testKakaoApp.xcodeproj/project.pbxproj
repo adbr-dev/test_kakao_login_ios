@@ -16,6 +16,7 @@
 		B8A272662AEB58B300607CFC /* testKakaoAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A272652AEB58B300607CFC /* testKakaoAppTests.swift */; };
 		B8A272702AEB58B300607CFC /* testKakaoAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A2726F2AEB58B300607CFC /* testKakaoAppUITests.swift */; };
 		B8A272722AEB58B300607CFC /* testKakaoAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A272712AEB58B300607CFC /* testKakaoAppUITestsLaunchTests.swift */; };
+		B8A272822AEBA15700607CFC /* MyAppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8A272812AEBA15700607CFC /* MyAppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		B8A272712AEB58B300607CFC /* testKakaoAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testKakaoAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B8A2727F2AEB7F2000607CFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		B8A272802AEB835200607CFC /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
+		B8A272812AEBA15700607CFC /* MyAppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				B8A2727F2AEB7F2000607CFC /* Info.plist */,
 				B8A272802AEB835200607CFC /* Config.xcconfig */,
 				B8A2724E2AEB58B100607CFC /* testKakaoAppApp.swift */,
+				B8A272812AEBA15700607CFC /* MyAppDelegate.swift */,
 				B8A272502AEB58B100607CFC /* Persistence.swift */,
 				B8A272552AEB58B100607CFC /* ContentView.swift */,
 				B8A272572AEB58B300607CFC /* Assets.xcassets */,
@@ -274,6 +277,7 @@
 			files = (
 				B8A2724F2AEB58B100607CFC /* testKakaoAppApp.swift in Sources */,
 				B8A272512AEB58B100607CFC /* Persistence.swift in Sources */,
+				B8A272822AEBA15700607CFC /* MyAppDelegate.swift in Sources */,
 				B8A272562AEB58B100607CFC /* ContentView.swift in Sources */,
 				B8A272542AEB58B100607CFC /* testKakaoApp.xcdatamodeld in Sources */,
 			);
